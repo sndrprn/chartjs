@@ -1,4 +1,4 @@
-# chartjs
+# Chart.js
 
 Veebiraamistike tunniks loodud chart.js lahendus, mis näitab selle erinevaid võimalusi
 
